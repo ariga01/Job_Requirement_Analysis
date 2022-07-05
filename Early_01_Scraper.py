@@ -168,4 +168,4 @@ for country in country_list:
 
 # Dataframe and export to csv
 df = pd.DataFrame(job_data)
-df.to_csv('Output\Early_Scraped-Data-Raw.csv', index=False, encoding='utf-8')
+df.to_csv('Output\Early_Data_Scraped.csv', index=False, encoding='utf-8')

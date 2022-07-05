@@ -1,0 +1,1443 @@
+country,title,company,seniority,applicants,1 Year,2 Year,3 Year,4 Year,5 Year,Python,SQL,Power BI,Tableau,Degree,Excel,R,GPA
+Japan,Data engineer/data analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / data scientist,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst Consultant <our own / regional bank market share of 40%BI tools> Full remote possible,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data analyst / Inexperienced welcome / young success / 120 days or more per year,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analysts,Cognizant,Full-time,66,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+Japan,Data Analyst,Woven Planet Holdings,Full-time,74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst (CHN),CTW Inc,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Field Data Analyst: Major semiconductor equipment manufacturers,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Japan,Senior Data Analyst,Treasure Data,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,"Data Analyst II, Insights & Analytics",Remitly,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,ESFC Solutions,Full-time,29,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,PICKUP,Full-time,87,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Twilio,Full-time,56,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst -Entry Level/Junior (Remote),GrahmSain,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,CCS Global Tech,Full-time,173,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Entry Level Data Analyst,Apex Systems,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,UBS,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Technology & Services Industry Association (TSIA),Full-time,77,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,SoftStandard Solutions,Contract,153,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Kroger Technology & Digital,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Telecommute,Optum,Full-time,100,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Business Data Analyst,Aardy,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Comcast,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Operational Data Analyst,AEW,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+US,Associate Data Analyst,Cerulli Associates,Full-time,56,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Applicantz,Contract,89,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Insight Global,Full-time,39,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Crox Consulting Inc,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+US,Junior Data Analyst,Brooksource,Full-time,64,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Marketing Data Analyst,EF Ultimate Break,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Calculated Hire,Full-time,29,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Junior Data Analyst,Cox Enterprises,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Webhelp,Full-time,37,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Level 2,Lockheed Martin,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Cyndx,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,"Data Analyst (Full Time, Remote)",Hire Digital,Full-time,109,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,"Data Analyst (Full Time, Remote)",Hire Digital,Contract,55,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Clutch,Full-time,40,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Tic Toc Games,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Telecommute,Optum,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Wise Skulls,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Aya Healthcare,Full-time,86,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+US,Data Analyst (Junior Role),Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst (Junior Role),Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Webhelp,Full-time,30,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Kobalt Music,Full-time,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst - Remote,Orsini Specialty Pharmacy,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Samtec Inc,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Product Data Analyst,Vitality Group Inc.,Full-time,83,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Synergy Interactive,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst I,Massachusetts General Hospital,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Turo,Full-time,60,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Dow Jones,Full-time,48,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,"Data Analyst (Full Time, Remote)",Hire Digital,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Unibail-Rodamco-Westfield,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Junior Data Analyst-Remote,SynergisticIT,Contract,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Lockheed Martin,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,"MZQ Consulting, LLC",Full-time,36,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Aston Carter,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Apex Systems,Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Turo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,"Asta CRS, Inc.",Full-time,127,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,OP Labs,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+US,"Data Analyst, GTM",Lyra Health,Full-time,29,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,GenSpark,Full-time,78,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Power On Marketing,Full-time,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Clinical Data Analyst,Indeio,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Lithia & Driveway,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Junior Data Analyst,Dice,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst (Junior Role),Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst (Junior Role),Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,PERSUIT®,Full-time,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Junior Data Analyst,Technology Ventures,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst - Telecommute,Optum,Full-time,47,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Aditi Consulting,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Ideas In Bloom,Temporary,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,WebTPA,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Business Data Analyst,BBSI,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,SynergisticIT,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst II - Telecommute,UnitedHealthcare,Full-time,91,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Associate Staffing,Full-time,74,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Wipro,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst I,Nimble Robotics,Full-time,37,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Entry Level Data Analyst,Dice,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Apex Systems,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Gleaners Community Food Bank,Full-time,50,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Lightstream Data Analyst - Open to Remote,Truist,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst I,orangepeople,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Robert Half,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Marketing Data Analyst,Apex Systems,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Naval Facilities Engineering Systems Command (NAVFAC),Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,TuneCore,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,"FocusKPI, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Quality Analyst,Panasonic North America,Full-time,27,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,"Infina, Ltd.",Full-time,40,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Jr. Data Analyst,ConsultNet,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Quantitative Data Analyst,"Intex Solutions, Inc.",Full-time,95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Jr. Data Analyst | On-site,ClearpointCo,Contract,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,SMPL Technologies,Full-time,67,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Jockey International, Inc.",Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Associate Data Analyst,ManpowerGroup,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,ICQA Data Analyst,Amazon,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Malakye.com,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Senior Data Analyst,TikTok,Full-time,200,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst II (Healthcare Analytics),Centene Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,SA FORCE IT,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Kraken Digital Asset Exchange,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,OCBC Bank,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Data Analyst (Mid-Level) (Product Analyst),Xsolla,Full-time,27,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+Malaysia,Emb Digital Data Analyst,OCBC Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,PropertyGuru Group,Full-time,200,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst Client Invoicing (Contract) - Urgent,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,ERROR COMPANY,Full-time,28,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Senior BI Data Analyst,FirstWorks Group,Full-time,58,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Customer Data Administration & Pricing Analyst,Alcon,Full-time,137,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst,BTC Recruitment Malaysia - Executive Search Recruitment Agency,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,DIVE Senior Data Analyst,Standard Chartered Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Data Test Analyst,HTC Global Services,Full-time,83,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst - Trade Compliance/Customs-EN,Cargill,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Business Intelligence Developer,Bestinet Sdn Bhd,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Junior Data Analyst,ERROR COMPANY,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,[GOVT] Data Analyst (Entry Level) - JL,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Singapore,"Analyst, Data Analyst (Ingestion), Customer Experience, Consumer Banking Group",DBS Bank,Full-time,34,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst & Document controller,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Regional Data Analyst (1 year),ERROR COMPANY,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst (Wealth Management Fintech, up to $5.5k)",ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+Singapore,Data Analyst / Senior Data Analyst,ERROR COMPANY,Associate,25,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Danone,Full-time,110,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst_Beginner,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst S&P,Good Doctor Technology,Full-time,63,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst Graduate Programme,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Venture Data Analyst (VC Startup/Remote/Southeast Asia),ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Data Science),ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Pan-United Corporation Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Oil Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,"Analyst, Data Analyst, Consumer Banking Operations, Technology & Operations",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,IFUN SINGAPORE PTE. LTD,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,A&I Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst_Intermediate,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Healthcare/Lifescience),ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Crypto/ Blockchain),ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Singapore,Data Analyst (Python),ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+Singapore,"Data Analyst (Business Analytics, 6 months contract)",ERROR COMPANY,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Data Management (1 Year contract)",ERROR COMPANY,Associate,25,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Ref 24823),ERROR COMPANY,Entry level,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Data Hub (1 Year Contract)",ERROR COMPANY,Associate,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Data Hub (1 Year Contract)","Bank of Singapore, Asia's Global Private Bank",Full-time,68,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,PropertyGuru Group,Full-time,167,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,"Williams-Sonoma, Inc.",Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Associate, Data Analyst, CRE Strategy & Administration, Technology & Operations",DBS Bank,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Social Media Data Analyst,Pundi X,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst/Business Analyst [Job Code 2112462P],ERROR COMPANY,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,HR Data Analyst,ERROR COMPANY,Associate,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Science Background),ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR COMPANY,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst for Ministries (Contract),ERROR COMPANY,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+Singapore,Credit Operations Data Analyst (SPU),Citi,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,HR Data Analyst,Prudential Assurance Company Singapore,Full-time,58,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst/ BI (Products) – Crypto/Fintech,ERROR COMPANY,Associate,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Project Data Analyst (Oil Trading/Supply Chain/1-year Contract),Manpower Singapore,Contract,36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,66,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Business & Data Analyst intern,ERROR COMPANY,Internship,47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Entry level,72,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,104,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,51,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,TaniHub,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Entry level,27,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Marketing Data Analyst,ERROR COMPANY,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Associate Data Analyst,ERROR COMPANY,Associate,37,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Entry level,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,92,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst/WO,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,PT. Equityworld Futures,Full-time,29,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst / Data Scientist,ERROR COMPANY,Entry level,60,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Reporting& Data Analyst,ERROR COMPANY,Entry level,41,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR COMPANY,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,PT. Equityworld Futures,Full-time,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Sr. Data Analyst,ERROR COMPANY,Associate,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst Executive (Ancillary),airasia Super App,Full-time,109,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Fresh Graduate Business Data Technical Analyst,ERROR COMPANY,Entry level,149,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+Indonesia,Senior Data Analyst,ERROR COMPANY,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,ERROR COMPANY,Associate,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Customer Operations - PIC Data Analyst,Ajaib,Full-time,57,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Big Data dan Business Intelligence Development Trainee (CAP),ERROR COMPANY,Entry level,33,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Customer Operations - Data Analyst,Ajaib,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Business Intelligence - GoPay,Gojek,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data Analysts,Cognizant,Full-time,69,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Japan,Data Analyst,Robert Half,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -Data Analyst,Specialized Group,Full-time,77,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -EH,Talisman Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -EH,Talisman Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst --Commerce CDO Office (OGOMD),Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,Product Data Analyst -Food Related,Randstad Japan,Full-time,61,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst,Gelato,Other,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Japan,Data Analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Data Analyst (English only Required) SALARY UP to 9,0m JPY PER YEAR",Skillhouse Staffing Solutions K.K.,Full-time,70,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -Account Innovation Office,Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,Data Analyst -Japan,Citymapper,Full-time,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -Account Innovation Office,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,Data Analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -Japan,Moloco,Full-time,36,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,Data Analyst,"Mitsui O.S.K. Lines, Ltd.",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Financial Data Analyst,Moody's Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst,Woven Planet,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst/ Data Analyst,Robert Walters,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Japan,"Market/Data Analyst -Rakuten Lifull Stay, Inc.",Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+Japan,"Data Analyst, ConversionATIONAL AI -Customer Experience Department (CXD)",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst,Morgan McKinley,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst -JAPAN & SOUTH KOREA,The Coca-Cola Company,Full-time,108,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst -Pre -IPO Global Startup,Spotted,Full-time,39,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,Data analyst Data Analyst,FLYWHEEL Inc.,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst --FRAUD,Paidy,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,Data Analyst,Capgemini,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst-this Role for- Less-Able (Disability),Intel Corporation,Full-time,95,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Japan,Product Data Analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst - Bank Business Department (BBD),Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0
+Japan,Data Analyst,CACI International Inc,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,BI Data Analyst -Data Platform Department (DPD),Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,"Data Analyst, Rakuma Service -EC Incubation Department (ECID)",Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Data Analyst, Innovation and Platform Section -EC First Party Development Department (ECFD)",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Data Analyst, Marketing & Cwd Section -Dream Business Management Department",Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,Data Analyst -Ichiba Creative & Web Design Department (MPB),Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,CRM / Data Analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst-MultINATIONAL IT COMPANY,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Senior Data Analyst,Talisman Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,"Data Analyst, Shiseido Global Brand Unit",Shiseido,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst @ International Retail Company,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst/ Data Analyst,Robert Walters,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,Data Analyst (New Graduate Position) / Data Analyst (New Graduate) --MERCARI,"Mercari, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst SQL -Insurance Company,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Market/Data Analyst Researcher -Rakuten Lifull Stay, Inc.",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Bloomberg 2022 New Grads -Market Data Analyst,HirePlanner.com,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Japan,Marketing Data Analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -AI Success Supervisory Department (AISSD),Rakuten,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,[JLPT N3] Data/Bi Analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,Senior Data Analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst-CS Strategy Office (RM CS Division),"Rakuten Mobile, Inc.",Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,(NN) Senior Data Analyst,Talisman Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,"Data Analyst, Marketing Group -Home Life Direct Business Department",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,Finance Data Analyst,Realtime Recruitment,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Associate Data Analyst-Customer EXPERIENCE GROUP | BANGKOK-BASED,Agoda,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Japan,"Data Analyst (Statistics/Python/Bi) (Bangkok-Based, Relocation Provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Japan,"Data Analyst, Customer Strategy Department -Platform Strategy Supervisory Department (CSD)",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Senior Data Analyst --Marketing and Product -EH,Talisman Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,"Data Analyst, Data Source Section -Network Intelligency & Analytics Department (RM E2E Performance & Capacity Div)","Rakuten Mobile, Inc.",Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,Mobile Game Data Analyst / Line Game Platform,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Bloomberg Data, Exchange Content Analyst, Tokyo",Bloomberg LP,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Japan,"Data Analyst, Super App New Business - Ecosystem Strategy Supervisory Department, Marketing Division",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data System Analyst (P2/P3) --Data Headquarters Data Analytics,AXA Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,(AIG SONPO) Data Analyst (Tokyo),AIG,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,Data analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Sr. Data Analyst --Risk & Collections,Paidy,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,Data analyst / Data Analysts,Inbound Technology Co.Ltd.,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,HH It Japan Data & Analytics Product Manager and Analyst,MSD,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Senior Data Analyst -Marketing and Product Analytics Team,Paidy,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Japan,Account Innovation Office: Data Analyst,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data analyst/ Game Platform,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Data Analyst, Partner Development-(Statistics/ML/Bi) (Bangkok-BaseD, Relocation Provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data scientist (analyst),Fidel Consulting KK,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst (LINE advertisement) / AD Data team,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / LINE NEWS,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst: Major foreign -affiliated companies,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Senior Data Analyst (Bangkok BaseD, Relocation Provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data analyst,PERSOL CAREER BRS (Bilingual Recruitment Solutions),Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / LINE SEARCH,LINE Corp,Full-time,30,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Account Innovation Office: Data Analyst,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data analyst,gumi Inc.,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Marketing Reaacher, Data Analyst, Researcher",Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Senior Data Analyst -Business Intelligence,Titan Consulting K.K. | Healthcare | Technology Japan Recruitment Firm,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Senior Data Analyst, Partner Development-(Statistics/ML/Bi) (Bangkok-BaseD, Relocation Provied)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Data Analyst, Conversational AI -AI Product Department (AIPD)",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,Data analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Commerce CDO Office: Data Analyst (OGOMD),Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst / LINE Manga / LINE Digital Frontier,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / AI company,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / LINE VOOM,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data business analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data platform part: BI data analyst (DPD),Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,[Up to 11MIL/Year] Business System Analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Position search / data analyst,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Business Intelligence Engineer,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,Data analyst,"Mitsui O.S.K. Lines, Ltd.",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Senior data analyst,PlayStation,Full-time,29,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / LINE wallet,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / LINE for Business,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Senior Fraud Data Analyst (Bangkok Based, Relocation Provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,Business Intelligence Developer,CNA Insurance,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,[FMCG] Data analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Exchange Data Modeler (Business Analyst), Tokyo",Bloomberg LP,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst / Mitsubishi Corporation and Tata Group's Three Zaibatsu joint venture,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst/management support/LINE FUKUOKA,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Business Intelligence Data Engineer,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data Analyst: Market Organization Department,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Business Intelligence Engineer -EH,Talisman Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Japan,Senior data analyst,"every, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst (python),ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Data analyst,ERROR,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,2023 Market Data Analyst (Bilingual JAPANESE/ENGLISH SPEAKER) --JAPAN,Bloomberg LP,Full-time,43,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,Back-Office Systems Business Analyst,Randstad Japan,Full-time,25,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,AI Success Division: Data Analyst (AISSD),Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,2022 Market Data Analyst (Bilingual JAPANESE/ENGLISH SPEAKER) --JAPAN,Bloomberg LP,Full-time,49,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,Data Analyst / 1TO1 Business Platform (Talk Care / Talk Fortune -telling),LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Scientist Data Analyst: Japanese Global Manufacturing Maker,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / LINE brand service,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst -Major Foreign Foreign Resources Insurance Company,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Senior Data Analyst (Retail Industry)/ Senior Data Analyst,Catalina Marketing Japan K.K.,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Japan,Banking Division: Data Analyst,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Japan,Business Intelligence Engineer,Amazon,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data analyst,株式会社エブリー,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / data scientist,イーストフィールズ株式会社,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Analyst / LINE Manga / LINE Digital Frontier,LINE Digital Frontier株式会社,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,IT Business Analyst / It Business Analyst [Foreign / major semiconductor] Full -time employee Tokyo,Emerge,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Japan,Home Life Direct Division Marketing Group: Data Analyst,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data analyst (Sakidachirabo),ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst (Commerce Company),ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / healthcare business,LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Business Intelligence Engineer, Amazon Flex",Amazon,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data analyst (EC: Site analysis/customer analysis) -Consumer manufacturing and retail companies,en world group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst / analysis g,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst/HR service (LINE Skimani/LINE bytes),LINE Corp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Business Intelligency Engineer, Amazon Business Japan Business Intelligence Team",Amazon,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Japan,Data Analysts -NTT Data Group/Working Environment ~,（株）ＮＴＴデータＮＪＫ,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Data engineer/analyst (SE welcome with SQL experience),パーソルプロセス＆テクノロジー株式会社,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,"Rakuten LIFULL STAY Co., Ltd.: Market Data Analyst",Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,Data Scientist/Analyst * Monthly average overtime hours about 25 hours/Environment where you can learn various analysis methods in the audit industry,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Japan,[Tokyo] Data Scientist/Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data analyst scientist for automakers,Hitachi,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Data Engineer in Business Intelligence Infrastructure Team (Bangkok Based, Relocation Provided)",Agoda,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Japan,Business Intelligence Engineer: No.1 HR Search Engine Platform,Randstad Japan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Japan,EC First Party Development Division: Data Analyst,Rakuten,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,[Remote] Data analyst,"Techtouch, Inc",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Japan,Senior Data Analyst (Retail Industry)/ Senior Data Analyst Catalina Marketing JAPAN,HirePlanner.com,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Japan,"It, New Products & Commission Application, Business System Analyst, GG09",MetLife,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,Data Scientist/Data Analyst [TSE Prime Listed],ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"IT, New Products & Commission Application, Business System Analyst, GG10",MetLife,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,"Business Intelligence Engineer, Japan Consumer Innovation",Amazon,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Japan,【英語を活かす】ビジネスアナリスト/ Business Analyst,ロバート・ウォルターズ・ジャパン（株）,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst I,Talentify.io,Full-time,101,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Toyota North America,Full-time,111,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, SMB",TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Quality Data Analyst,TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Entry Level | Data Analyst,Actalent,Full-time,25,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,"Data Analyst, Supply Chain Analytics (Remote)",The Home Depot,Full-time,200,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Aston Carter,Full-time,25,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Client Data Analyst (Remote),Experian,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,"Asta CRS, Inc.",Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Salesloft,Full-time,88,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Credly,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Salesloft,Full-time,173,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,Distribution Warehouse,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Customer Data Analyst,San Diego Gas & Electric,Full-time,95,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,operations and data analyst,Starbucks,Full-time,96,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Advanced Comms Platform,Twilio,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst,Salesloft,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,TikTok LIVE Data Analyst,TikTok,Full-time,72,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst I,Talentify.io,Full-time,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,WayUp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+US,Data Analyst,McKinsey & Company,Full-time,197,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst I,Talentify.io,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,CoverMyMeds,Full-time,84,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,UCSF Health,Full-time,25,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Healthcare Data Analyst,Talentify.io,Full-time,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Thermo Fisher Scientific,Full-time,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Aston Carter,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Junior Data Analyst,Lenovo,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst I,Talentify.io,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst (Remote),Jobot,Full-time,200,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,TMX Finance Family of Companies,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Junior Data Analyst,Troon,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Onramp Funds, Inc.",Full-time,83,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Lockheed Martin,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,"Data Analyst, Payments",Stripe,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+US,Junior Data Analyst,SubjectWell,Full-time,47,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst (Level 2),Lockheed Martin,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Senior Data Analyst,Toyota North America,Full-time,46,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst 2,PayPal,Full-time,43,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,LS Direct,Full-time,125,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,PepsiCo,Full-time,51,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Nirvana Money,Full-time,70,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Chubb,Full-time,89,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,LHH,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Aston Carter,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,WilliamsMarston LLC,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,MAPP Advisors,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Sr Data Analyst,The Walt Disney Company,Full-time,48,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+US,ICQA Data Analyst,Amazon,Full-time,26,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Doe-Anderson,Full-time,111,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+US,"Data Analyst, E-Commerce",Peloton Interactive,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,E-commerce Data Analyst - Operation,TikTok,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+US,Data Analyst Games and Live Ops,PlayStation,Full-time,200,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Virtusa,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,"Data Analyst, Monetization",TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,LHH,Full-time,89,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst 2 (Remote),IQVIA,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,BakerRipley,Full-time,46,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Staff Data Analyst,Walmart,Full-time,127,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst,"New Relic, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Associate Data Analyst,Prudential Financial,Full-time,146,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Real Time Data Analyst,Vaco,Contract,146,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,The Intersect Group,Contract,105,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,NielsenIQ,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Product Data Analyst,Underdog Fantasy,Full-time,65,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Embry-Riddle Aeronautical University,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Control Risks,Full-time,196,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Pearl Health,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Workplace Data Analyst,Aston Carter,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Advantis Global,Contract,62,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,GrowthDay,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,"Asta CRS, Inc.",Full-time,88,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data & Insights Analyst,Moonbug Entertainment,Full-time,83,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst - Remote,League,Full-time,95,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Wipro,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Motion Recruitment,Contract,185,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Junior Data Analyst,Ascendum Solutions,Contract,191,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,Associate Data Analyst,Prudential Financial,Full-time,58,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - 99% Remote,1872 Consulting,Full-time,32,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Selby Jennings,Full-time,151,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Optimal Dynamics,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,ADP,Contract,79,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Mastech Digital,Contract,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,MEDICOM,Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst (Remote),Arkestro,Full-time,171,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,LHH,Full-time,80,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst I,Cerner Corporation,Full-time,25,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Sr. Data Analyst,GoTo,Full-time,83,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Phreesia,Full-time,130,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+US,Data Analyst,Roth Staffing,Full-time,189,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Entry Level Data Analyst,Flexon Technologies Inc.,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst 1,Optum,Full-time,63,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Elsdon Consulting ltd,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst I,Cerner Corporation,Full-time,25,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Children's National Hospital,Full-time,35,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,E-commerce Data Analyst - Products,TikTok,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+US,Data Analyst,Aston Carter,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Bayer,Full-time,58,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst I,Experis,Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst (HYBRID),Thermo Fisher Scientific,Full-time,35,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst (level 2),Lockheed Martin,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Lockheed Martin,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,ASK Consulting,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,"Data Analyst, Risk Data Mining, TikTok-US-Tech Services",TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Waltz Health,Full-time,71,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,ALIS Software LLC,Full-time,33,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Entry-Level Data Analyst,NTT DATA Services,Full-time,102,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+US,Data Analyst (Entry Level),Core Software Technologies Inc,Full-time,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Oak Street Health,Full-time,37,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Harvey Nash USA,Full-time,30,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Horizontal Talent,Contract,58,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Entry-Level Data Analyst,NTT DATA Services,Full-time,82,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+US,Data Analyst - Enhanced Analytics - Corporates,Fitch Ratings,Full-time,38,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst I,Cerner Corporation,Full-time,25,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,IGT,Full-time,87,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst I,Cerner Corporation,Full-time,25,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst (IL),Tiger Analytics,Full-time,193,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Marketing Data Analyst (REMOTE),Alkami Technology,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst II,Talentify.io,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Chubb,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Bank of America,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Ivy Energy,Full-time,33,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Foot Locker,Full-time,200,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst,MakeMyMove,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,Healthcare Data Analyst,Trellis Rx,Full-time,95,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, People Analytics",SiriusXM,Full-time,47,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, Warcraft Mobile Analytics",Blizzard Entertainment,Full-time,42,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,blk.beverages,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst II,Talentify.io,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Associate Data Analyst,Criteo,Full-time,26,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,"Data Analyst - SQL and Excel (Remote, Must live in GA)",Visionaire Partners,Contract,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Visualization Analyst,NOV,Full-time,91,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Strategic Data analyst,Buyers Edge Platform,Full-time,155,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,io173,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,ASK Consulting,Contract,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Assurant,Full-time,44,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Eliassen Group,Contract,200,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Junior Data Analyst,Robert Half,Contract,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Cohesity,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,SynergisticIT,Full-time,43,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Middough Inc.,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,"Ursus, Inc.",Contract,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,1/ST Technology - AmTote International and Xpressbet,Full-time,68,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,"Integrated Resources, Inc ( IRI )",Other,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,WayUp,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Jr. Data Analyst,Robert Half,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,BG MULTIFAMILY,Contract,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,CFR International,Full-time,89,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Vic.ai,Full-time,52,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,McKesson,Full-time,38,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst 2 - Telecommute,Optum,Full-time,34,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst,FreshDirect,Full-time,150,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Capgemini,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Jobot,Full-time,200,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Capgemini,Full-time,35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Hexaware Technologies,Full-time,84,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Strategic Data Analyst,Buyers Edge Platform,Full-time,54,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,"DATA ANALYST, COST-EFFECTIVENESS",University of Washington,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Gresham Tech,Full-time,34,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Tentek, Inc.",Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Marketing Data Analyst,Lenovo,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,"Data Analyst, Peacock",Peacock,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Associate Data Analyst,Internet Brands,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Junior Data Analyst,Emporium,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Remote,Annexus Health,Full-time,182,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,NYU Langone Health,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,"Data Analyst, Internal Audit and Risk Control",TikTok,Full-time,96,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Fidelity Investments,Full-time,30,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Business Data Analyst,MoxiWorks,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst entry level,"Asta CRS, Inc.",Full-time,108,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Sr Data Analyst,The Walt Disney Company,Full-time,64,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,The Weather Channel,Full-time,40,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst I,Cerner Corporation,Full-time,25,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Apex Fintech Solutions,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst - Entry Level,Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,"Data Analyst (R, Python)",Motion Recruitment,Full-time,32,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0
+US,Data Analyst II (Remote Available),Centene Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,LinkUp,Full-time,37,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Supply Chain Analytics,Bell Flight,Full-time,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Excel Impact,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, Population Health",Eleanor Health,Full-time,90,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst/Statistician,"RELI Group, Inc.",Full-time,26,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Vaco,Full-time,61,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,LHH,Full-time,45,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Junior Data Analyst,StoneX Group Inc.,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Smith Hanley Associates,Full-time,120,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0
+US,Data Analyst,"West 4th Strategy, LLC",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,CDK Global,Full-time,50,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,ChristianaCare,Full-time,27,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst,Price Industries,Full-time,40,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,ERROR,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,ENGAGE,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst,Gordon Food Service,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,GeekHive,Full-time,36,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Gerdau,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, Care Analytics",Reify Health,Full-time,44,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Marketing Data Analyst,LaunchDarkly,Full-time,52,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,eGourmet Solutions Inc.,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,ASK Consulting,Contract,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,wikiHow,Full-time,127,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+US,Senior Data Analyst,Walmart,Full-time,58,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"The Custom Companies, Inc.",Full-time,49,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst I #: 22-05601,HireTalent - Diversity Staffing & Recruiting Firm,Contract,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst- REMOTE USA,PRA Group (Nasdaq: PRAA),Full-time,200,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,CRG,Contract,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst - REMOTE,SyllogisTeks,Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+US,Data Analyst,ASK Consulting,Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst/Senior Data Analyst- Remote,CaptivateIQ,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Central Point Partners,Contract,32,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst II Remote Available,Talentify.io,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst (Remote),Hunter International Recruiting,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Hunter International Recruiting,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,CMC Data Analyst,Generate Biomedicines,Full-time,33,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+US,Data Analyst II,Cambium Assessment,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Civic Entertainment Group, LLC (A Seacrest Global Group Company)",Full-time,135,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,IMEG Corp,Full-time,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Arcus Restoration,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst- Remote Opportunity,GuideOne Insurance,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Horizontal Talent,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Buyers Edge Platform,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Healthcare Data Analyst,Gainwell Technologies,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Fragomen,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Valiant Integrated Services,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,SDG Group USA,Full-time,164,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst IV,Kaiser Permanente,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Junior Data Analyst,Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Hewlett Packard Enterprise,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Modis,Contract,54,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Visualization Analyst,Talentify.io,Full-time,29,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Google Data Analyst,Frontiers,Full-time,32,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Avison Young,Full-time,33,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+US,Business Data Analyst,Employer Direct Healthcare,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analytics & Insights Analyst,WayUp,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Modis,Full-time,107,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,People Data Analyst,IPG Health,Full-time,200,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst (Only USC and GC),Mastech Digital,Contract,96,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Business Data Analyst,"FROM, The Digital Transformation Agency",Full-time,114,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Eurofins Lancaster Laboratories,Full-time,68,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Simulmedia,Full-time,67,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,IT Data Analyst,"JESCO, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,IT Data Analyst,Merchants Capital,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,SynergisticIT,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst TD&R,Cisco,Full-time,63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,GAINSCO,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Optima Global Solutions Inc.,Contract,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst Senior- Remote,Progressive Insurance,Full-time,61,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Milestone Technologies, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Technical Data analyst,Citi,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Parkland Health,Full-time,34,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, Data Mapping/Modeling with P&C",Capgemini,Full-time,57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Healthcare Data Analyst I,Network Medical Management,Full-time,182,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,"Sr. Data Analyst, Monetization",Snap Inc.,Full-time,31,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+US,Global Data Analyst,The Clorox Company,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst (Emissions),The Judge Group,Contract,56,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,ALTEN,Other,33,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,isolved,Full-time,25,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,ASK Consulting,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Quality Data Analyst,Thermo Fisher Scientific,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Adroit Partners, LLC",Full-time,40,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Entry Level Data Analyst,SynergisticIT,Contract,27,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Justworks,Full-time,52,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Associate Data Analyst,Motion Recruitment,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,ObjectWin Technology,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Sterling Engineering,Contract,49,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Marketing Data Analyst,Vaco,Full-time,109,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Research Data Analyst,"University of California, San Francisco",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Junior,Staffigo,Full-time,36,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,"DATA ANALYST, DOMESTIC HEALTH SPENDING",University of Washington,Full-time,39,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+US,Entry Level Data Analyst,SynergisticIT,Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,JobsInLogistics.com,Full-time,25,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,"Senior Data Analyst, Games & Live Ops",PlayStation,Full-time,157,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Radix,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst,ASK Consulting,Contract,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Grant Thornton LLP (US),Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Brooksource,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Insight Global,Contract,48,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,ERROR,Contract,109,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst - Tiktok Ads and Monetization Products,TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst II (Healthcare Analytics) Remote,Talentify.io,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst - FULLY REMOTE,Robert Half,Full-time,25,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst II,Crown Castle,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,6 River Systems,Full-time,26,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Concero,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,DISH Network,Full-time,39,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Sr. Data Analyst,Bank of America,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Senior Data Analyst,GlobalLogic,Full-time,124,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Atlas Copco,Full-time,28,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Marketing Data Analyst,DELVE,Full-time,72,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Provider Data Analyst - Remote,Explore Job Search,Full-time,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,"Contract: Data Analyst, Growth",Upwork,Contract,79,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst Level 1,"Dialysis Clinic, Inc.",Full-time,25,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+US,Data Analyst,Cannon Search,Full-time,108,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Healthcare Data Analyst,ERROR,Full-time,200,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,VincentBenjamin,Contract,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Senior Data Analyst,Soaren Management,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,SQL Data Analyst,US Radiology Specialists,Full-time,200,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+US,JUNIOR Data Analyst,DISYS,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Strategic Data Analyst,University of Colorado,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Operations Data Analyst,WayUp,Full-time,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Data Analyst (Specialist),Fictiv,Full-time,120,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+US,Data Analyst (Entry Level),DSST Public Schools,Full-time,39,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,"Optimal Engineering, Inc.",Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Business Data Analyst,CoreLogic,Full-time,39,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,ALDI USA,Full-time,46,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Healthcare Data Analyst (2022-0778),Valley Medical Center,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Matlen Silver,Contract,47,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst - Remote,NFP,Full-time,105,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Marketing Data Analyst,Vya,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+US,Data Analyst,Phreesia,Full-time,39,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+US,Data Analyst II - Site,Freeport-McMoRan,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Prospect 33,Contract,42,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Data Analyst,Motion Recruitment,Contract,120,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Data Analyst I,"Three Point Solutions, Inc.",Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Junior Data Analyst,Staffigo,Full-time,57,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,"Data Analyst, HEOR",Randstad USA,Contract,167,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Ledgent Technology,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+US,Capstone Data Analyst,Walden University,Full-time,136,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Senior Data Analyst,Walmart,Full-time,58,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Rosendin,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+US,Data Systems Analyst 4-FT Remote,OrbitJobs.Org,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst - Product (Remote),"New Relic, Inc.",Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+US,Network Data Analyst,Thermo Fisher Scientific,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+US,Investment Banking Data Analyst,BTIG,Full-time,47,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst,Fed IT Canada,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0
+US,Data Analyst,Eclaro,Contract,93,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Manufacturing Data Analyst,Thermo Fisher Scientific,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Sr. Data Analyst - 65810,Swoon,Full-time,98,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+US,Data Analyst,Avison Young,Full-time,82,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+US,Product Data Analyst,MX,Full-time,44,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+US,Marketing Data Analyst,Harnham,Full-time,175,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,GuideOne Insurance,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst (Quality),System Soft Technologies,Full-time,98,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+US,Healthcare Data Analyst (100% REMOTE/NO C2C),Explore Job Search,Full-time,37,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+US,"Data Analyst, Global Finance Operations",International Rescue Committee,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+US,Data Analyst (Mid-Level),Jack Henry & Associates,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+US,Data Analyst,Alteryx,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+US,Data Analyst,VieMed Healthcare,Full-time,91,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+US,Entry Level Data Analyst,Staffigo,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+US,Data Analyst (REMOTE),"Ryder System, Inc.",Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Maxis,Full-time,120,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Allocated Bullion Exchange - ABX,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Schneider Electric,Full-time,189,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst - Cross Border Fulfillment Warehouse,Shopee,Full-time,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst - Cross Border Fulfillment Warehouse,Shopee,Full-time,78,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Data Analyst - SQL, Advanced Excel",Tata Consultancy Services,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,Business Data Analyst,Maybank,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,NielsenIQ,Full-time,143,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Accenture Southeast Asia,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Junior Data Analyst (Benefits),Marsh,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,Zuellig Pharma,Contract,163,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst - Data Cycling Center,TikTok,Full-time,75,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Geo-data Analyst,Fugro,Full-time,80,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Kingfisher Recruitment Group,Full-time,75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Omnicom Media Group Asia Pacific,Full-time,90,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0
+Malaysia,Investments Data Analyst,500 Global,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,OCBC Bank,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Emb Digital Data Analyst,OCBC Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Insight and Data Analyst,Omnicom Media Group Asia Pacific,Full-time,137,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Malaysia,Data Analyst,ERROR,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+Malaysia,Data Analyst,NielsenIQ,Full-time,58,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Senior Officer, Junior Data Analyst (Credit Modeling)",UOB,Full-time,111,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst (Outsource),HONOR,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Accenture Southeast Asia,Full-time,200,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst - Urgent Role,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,SWIFT,Full-time,70,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,PropertyGuru Group,Full-time,168,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Air Liquide,Full-time,153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,Data Analyst,Capgemini,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+Malaysia,Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,HealthMetrics,Full-time,113,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,DATA ANALYST (MID-LEVEL),Xsolla,Full-time,44,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Associate Data Analyst,Franklin Templeton,Full-time,62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst Associate,Green Packet,Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Junior Consultant - Data Analyst,TalenCloud Consultancy,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,PropertyGuru Group,Full-time,39,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Quality Analyst,Citi,Full-time,46,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,SWIFT,Full-time,168,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,"Data Analyst, IT (MNC Company)",BTC Recruitment Malaysia - Executive Search Recruitment Agency,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Jobs via eFinancialCareers,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst - Data Cycling Center,ByteDance,Full-time,167,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,ERROR,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Avanade,Full-time,31,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst - MY (Subang),Rentokil Initial,Full-time,101,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,Jobs via eFinancialCareers,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,ERROR,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst Engineer,AirAsia,Full-time,65,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Clinical Data Analyst I,Parexel,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst( Senior Executive),Hiredly X,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Business Data Analyst,Michael Page,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst Executive,"Coca-Cola Beverages Singapore, Malaysia & Brunei",Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst,Viu,Full-time,32,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Governance Analyst - Digital Bank,Shopee,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst - Tableau & Firebase (Kuala Lumpur),CBRE,Full-time,66,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Center Analyst,Hexa Business,Contract,26,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst,Recruitment Agency,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,QS Quacquarelli Symonds,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+Malaysia,Regional EM&T Data Analyst,CBRE,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst,Ingram Micro,Full-time,62,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Business Data Analyst Manager,IOUpay,Internship,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst,Power Integrations,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,Amway,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst,Dyson,Full-time,59,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Assoc Data Analyst,Edwards Lifesciences,Full-time,47,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst Client Invoicing (Contract),RBC Investor & Treasury Services,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Middle Data Analyst (Product Analyst),Xsolla,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Social Media Data Analyst,Pundi X,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst & Reporting Senior Associate,SOCAR Mobility Malaysia,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Malaysia,Data Standardization Analyst,LSEG (London Stock Exchange Group),Full-time,69,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Data Analyst Client Invoicing (Contract) - Urgent,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Consumer Experience - Senior Data Analyst,Philip Morris International,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Senior Data Analyst, Data Collection",LSEG (London Stock Exchange Group),Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,"Data Analyst, Supply Chain",Ingredion Incorporated,Full-time,116,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Procurement Data Analyst,Huntsman Corporation,Full-time,26,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Fraud Intelligence Data Analyst,Citi,Full-time,58,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst (Team Lead),Xsolla,Full-time,26,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,ERROR,Full-time,30,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst (MNC Company),BTC Recruitment Malaysia - Executive Search Recruitment Agency,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Metocean Data Analyst,Fugro,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst,Global Fashion Group,Full-time,46,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Malaysia,"Data Transformation Analyst I, Shipping Commerce",IHS Markit,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,Sales Data Analyst Specialist,Maxis,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Data Transformation Analyst I, Shipping Commerce",Jobs via eFinancialCareers,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,BUSINESS DATA ANALYST,Konica Minolta Malaysia,Contract,28,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Master Data Analyst,RGP,Contract,63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,PLM Data Analyst/Change Analyst,Power Integrations,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Business Data Analyst (SQL-Programming),Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Manager, Data Analyst (Credit Modeling)",UOB,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Master Data Analyst (P2P),Baxter International Inc.,Full-time,180,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Master Data Analyst,ACCA Careers,Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data & Capability Analyst - Supply Chain,Kerry,Full-time,47,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst - Hybrid,Citi,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"AVP, Data Analyst, Compliance Systems Surveillance, Automation and Analytics, Compliance",UOB,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,"Lead, Data Analyst",foodpanda,Full-time,128,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,"Senior Data Analyst, Risk & Fraud",foodpanda,Full-time,200,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Assistant Manager, Data Analysts",Executive Recruiters Sdn Bhd,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Malaysia,Senior Data Analyst,Kognitiv Corporation,Full-time,35,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Malaysia,Data Infrastructure Analyst,OCBC Bank,Full-time,106,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,"AML Monitoring and Investigation, Data Intelligence Data Science, Intermediate Analyst",Citi,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,"Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Lead Data Analyst,Publicis Groupe,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Lead Data Analyst,Global Fashion Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Malaysia,Credit Risk & Collection Data Analyst (Bangkok-based),Agoda,Full-time,47,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst (Python) - Supply Chain,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,HR Data Management Analyst,GSK,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Loss Prevention Analyst,Zurich Insurance,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,"Senior Data Analyst (Bangkok Based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Regional Data Analyst (Business Operations),Glints,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Sr Master Data Maintenance Analyst,Smith+Nephew,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Master Data Senior Analyst,Roche,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Master Data Management Analyst I (Korean Speaker),Kimberly-Clark,Full-time,25,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst - Automation,Randstad Malaysia,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,Business Intelligence (BI) Developer,Capgemini,Full-time,136,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data and Process Transformation Analyst [Support RDC HK],TMF Group,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Senior Data Analyst (MNC IT Service Provider),BTC Recruitment Malaysia - Executive Search Recruitment Agency,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0
+Malaysia,Data Science Lead Analyst (VP) - Hybrid,Citi,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,"Senior Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,Business Analyst / Data Analyst,Hunters International,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Business Intelligence - Business Finance Analytics,Shopee,Full-time,28,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Business Intelligence Specialist,Baxter International Inc.,Full-time,70,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+Malaysia,Sales & Marketing Data Analyst,KION Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Business Intelligence Developer,Capgemini,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Master Data Management Analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Sales & Marketing Data Analyst,Dematic,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Management Programmer/Analyst,Quantum,Full-time,25,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,Business System Analyst,Ceridian,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Business Intelligence (BI) Analyst,foodpanda,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Malaysia,Business Systems Analyst 1,Sanmina,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Master Data Setup Maintenance Senior IT Analyst / Accountant,Michael Page,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,IT Business Analyst (Core Banking),Maybank,Full-time,146,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,"Senior Specialist, Business Intelligence – Data Platform",DKSH,Full-time,67,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,HR Data Management Analyst,ERROR,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Business Intelligent Reporting Analyst - Based in KL,Skillsforce Management Consultancy,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Data Analyst Internship @ TDG,ERROR,Internship,48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Troopers Internship 2022 (Data Analyst),ERROR,Internship,101,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Data Analyst Internship,Wonder Pod Sdn Bhd,Internship,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Internship for Data Analyst,ERROR,Internship,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Senior Business Intelligence Specialist (Power BI),Ambition,Full-time,27,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,IT Business Analyst - Financial Services,Flintex Consulting Pte Ltd,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,Database Specialist (Business Analyst),Salescode,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Business Support & Eligibility Analyst,Cigna,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Junior Business Intelligence Analyst,Hilti Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,IT Business Analyst,Maxis,Full-time,82,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Business Intelligence Developer,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Business Process & Compliance Analyst,Interflour Group Pte Ltd,Full-time,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,IT Business Analyst (WMS),eco-shop Malaysia,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Malaysia,IT Business Intelligence Analyst (Tableau),Evolution Wellness Group,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Malaysia,"Senior Specialist/Specialist, Business Intelligence (Power BI)",DKSH,Full-time,133,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Business Systems Analyst,HypaShip,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Malaysia,Data Scientist/BI Analyst,MVC Resources,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Malaysia,Business Intelligence Developer,Recruitment Agency,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,"Business System Analyst (ERP, Regional Implementation)",Flex,Full-time,55,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,MYS CTSM PG - In-Business Control Analyst,Citi,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malaysia,Assistant Manager - Business Intelligence / SAS Analyst - Open for Malaysian only,Berjaya Sompo Insurance Berhad,Full-time,60,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Dow Jones,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Audit Analytics) – Associate (Entry Level),Deloitte,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Junior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Aon,Full-time,172,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Data Analyst,Matrixport,Full-time,102,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Sleek,Full-time,111,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,"Analyst, Data Analyst (Ingestion), Customer Experience, Consumer Banking Group",DBS Bank,Full-time,48,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Data Science Analyst, TikTok",TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst (Open for Fresh Grads),ST Engineering,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Venture Data Analyst,Monk's Hill Ventures,Full-time,72,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, SMB",TikTok,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,SGInnovate,Full-time,92,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,"Data Analyst, Ads, Trust and Safety",Google,Full-time,141,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,OCBC Bank,Full-time,184,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Oddle,Full-time,148,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst - Marketplace Intelligence,Shopee,Full-time,30,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Product Data Analyst, Data Analysis",TikTok,Full-time,38,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,E-commerce data analyst,TikTok,Full-time,200,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Singapore,Data Analyst,Starbucks Coffee Singapore,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Tech Industry | SQL),Adecco,Contract,129,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Data Visualization),Aon,Full-time,150,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst & Document controller,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Group Data Office",OCBC Bank,Full-time,196,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,imToken,Full-time,154,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ValueLabs,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Potato Play,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+Singapore,Data Analyst,NextWave Partners,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst - Paid Ads,Shopee,Full-time,115,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Marketing Analytics),Shopee,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (TECH MNC / SQL / UP10K),Adecco,Contract,36,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Huxley,Full-time,174,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Gelato,Full-time,79,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Regional Data Analyst (1 year contract),L'Oréal,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Vesta,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Regional Data Analyst (1 year),ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Coinhako,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Dada Consultants,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst - Recommendation (Algorithm),Shopee,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Product Data Analyst - Data Analysis,TikTok,Full-time,31,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst - Recommendation,Shopee,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Regional Data Analyst,Ninja Van,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Singapore,Data Analyst,Ninja Van,Full-time,100,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Singapore,Data Analyst,WhiteCoat Global,Full-time,44,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Shell,Full-time,60,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst- Commercial Excellence,Reed,Full-time,84,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Experis Singapore,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Helius Technologies,Contract,129,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Horangi Cyber Security,Full-time,152,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst_Beginner,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst - Search, Recommendation and Ads (Campus Hire)",Shopee,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst, SMB",TikTok,Full-time,113,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Manpower Singapore,Full-time,39,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst - Data Cycling Center,TikTok,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Data Management & Data Analytics",OCBC Bank,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Science Analyst - TikTok,TikTok,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,Silicon Labs,Full-time,61,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Singapore,Data Analyst (TECH MNC/ Bank / UP5K+),Adecco,Contract,56,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst / Senior Data Analyst,ERROR,Associate,25,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Regional Data Analyst,Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst - Behavioral Data,OKX,Full-time,138,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,FAZZ Financial Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Neuron Mobility,Full-time,49,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Junior Oil and Data Analyst,TotalEnergies,Full-time,69,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,Experis Singapore,Full-time,95,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Danone,Full-time,110,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst - Customer Lifetime Value (CLV),Shopee,Full-time,157,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Data Science),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Trakomatic Pte Ltd,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Venture Data Analyst (VC Startup/Remote/Southeast Asia),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Financial Data Analyst,Canopy,Full-time,106,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,Robert Walters,Full-time,26,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Believe,Full-time,67,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,Waters Corporation,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,StarHub,Full-time,61,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Fraud),ShopBack,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,SIX,Full-time,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,ETF Data Analyst,Virtu Financial,Full-time,74,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,gumi Asia Pte Ltd,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,2022 Market Data Analyst Graduate Program - Singapore,Bloomberg LP,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,2022 Data Analyst Early Professional Program - Singapore (August 2022 Class),Bloomberg LP,Full-time,200,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Google Pay, Go Deep Markets",Google,Full-time,134,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Quality Analyst - Marketplace Intelligence,Shopee,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,Titansoft Pte Ltd,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst (Power BI),ComfortDelGro Taxi,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst Graduate Programme,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,[GOVT] Data Analyst (Entry Level) | East | Degree | - JL,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Python),Telepathy Labs,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Risk Data Analyst,Shopee,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,A&I Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst Engineer (Junior, Python, SQL, PowerBI)",Experis Singapore,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Migration Office",M1 Limited,Full-time,194,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Zenith Infotech (S) Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Cryptocurrency exchange),Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Junior Data Analyst (Backend, Mobile Games, Python)",Experis Singapore,Full-time,95,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst (APAC),foodpanda,Full-time,134,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Science Analyst (Data for Excellence),PSA International Pte Ltd,Full-time,81,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst_Intermediate,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst Engineer (Junior, Python, SQL, PowerBI)",Experis Singapore,Contract,148,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst - Chatbot (Campus Hire),Shopee,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst - Graduate Programme,FDM Group,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,"Revantage Asia, A Blackstone Company",Full-time,97,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Junior Data Analyst (Backend, Mobile Games, Python)",Experis Singapore,Contract,61,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst (Healthcare/Lifescience),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Beyond Rentals,Full-time,55,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Contact Centre",DHL Supply Chain,Full-time,57,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst / Data Analyst (Data Analytics Division) (Contract),Workforce Singapore,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst / Data Analyst (Data Analytics Division),Workforce Singapore,Full-time,71,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Business Data Analyst,Carousell Group,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+Singapore,Data Analyst,Encora Inc.,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Singapore,Data Science Analyst,Avensys Consulting,Full-time,131,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,StarHub,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (APAC),foodpanda,Full-time,200,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst-Fiat,Binance,Full-time,33,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst - Data Understanding,ByteDance,Full-time,129,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Data Analyst (Business Analytics, 6 months contract)",ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Python),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+Singapore,"Data Analyst, Data Management (1 Year contract)",ERROR,Associate,25,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Finance Data Analyst,Tata Consultancy Services,Full-time,108,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst,SPH Media,Full-time,27,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (SAS/Python) | Contract | Banking,Manpower Singapore,Contract,63,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Regional BI - Data Analyst,Shopee,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,PropertyGuru Group,Full-time,70,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Product Data Analyst,ADDX,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data & Analytics, Cards Business Analyst",Citi,Full-time,55,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Graduate Development Program),IHiS (Integrated Health Information Systems),Full-time,143,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Singapore,"Data Analyst, Risk Management - Digital Bank",Shopee,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,HR Data Analyst,JAC Group,Full-time,35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Livestream Business Data Analyst,TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,Virtusa,Full-time,120,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Ref 24823),ERROR,Entry level,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Junior Data Analyst (Marketing/Advertising),Experis Singapore,Contract,141,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Data Hub (1 Year Contract)",ERROR,Associate,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst / Data Scientist,Product Dynamix,Full-time,25,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,DDB Group Singapore,Full-time,70,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,Rakuten Viki,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ASM,Full-time,96,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst (Crypto/ Blockchain),ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Singapore,Data Quality Analyst,Wipro,Full-time,78,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst - Product,Atome,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Data Hub (1 Year Contract)","Bank of Singapore, Asia's Global Private Bank",Full-time,71,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst - Key Reports & Finance,Shopee,Full-time,171,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst/BI,Binance,Full-time,69,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst - HR,RGF Professional Recruitment,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Master Data Analyst,Getinge,Full-time,29,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Customer Experience & Data Insights Analyst (CRM),Nestlé Nespresso SA,Full-time,73,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Marketing Campaigns",PayPal,Full-time,183,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Singapore,"Associate, Data Analyst, CRE Strategy & Administration, Technology & Operations",DBS Bank,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Planning (9-months contract)",VF Corporation,Full-time,194,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Client Data Chapter (COO SG) (Associate/Senior Associate)","Bank of Singapore, Asia's Global Private Bank",Full-time,60,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Reeracoen Singapore Pte. Ltd.,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Singapore,Data analyst (#22-00170),"Continental Technology Solutions,Inc",Contract,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst / Senior Data Analyst,Binance,Full-time,88,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Bank) (Python / SAS) (JT),A-IT Software Services Pte Ltd,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Assistant Principal Data Analyst,ST Engineering,Full-time,49,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst - Product Management (Supply Chain),Shopee,Full-time,131,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst Engineer,Experis Singapore,Contract,123,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Science Analyst-1,AIA Singapore,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Carbon Data Analyst - Stealth ClimateTech Venture,BCG Digital Ventures,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,IT Data Analyst,Cosmostar Singapore Private Limited,Full-time,77,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst/Business Analyst [Job Code 2112462P],ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Supply Chain Operations),HP,Full-time,42,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Life Insurance),Morgan McKinley,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst - Compliance,OKX,Full-time,38,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Permanent/Contract),CGS-CIMB Securities,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst (Science Background),ERROR,Entry level,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Regional Operations (Data Analyst),Shopee,Full-time,35,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst Intermediate (#22-00164),"Continental Technology Solutions,Inc",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst,Salt Singapore,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,IT Data Analyst *Healthcare*,PEOPLE PROFILERS,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst for Ministries (Contract),ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+Singapore,Sustainability Data Analyst,Baring Private Equity Asia (BPEA),Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst Specialist,Morgan McKinley,Contract,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,"Lead Data Analyst, China Reality Research",CLSA,Full-time,64,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Singapore,Data Science Analyst-2,AIA Singapore,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,IT Data Analyst,Talentsis Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Project Data & Finance Analyst,CBRE,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Junior IT Data Analyst (Perm, 10 openings)",Talentsis Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst Engineer,Experis Singapore,Full-time,29,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Science Analyst (Group Cargo Solutions),PSA International Pte Ltd,Full-time,155,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"DATA ANALYST [FIELD SURVEYOR] (Central, Up to $3,900)",ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst / Lead Data Analyst,Marina Bay Sands,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Market Assessment Unit (MAU) - (Up to 6k | Contract | Central)",PERSOLKELLY Singapore,Full-time,39,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Inside Sales Service",Johnson Controls,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,"HR Data Analyst (Analysis, Visualization, Project Management, Central)",Pasona Singapore Pte. Ltd.,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Power BI and Excel),ERROR,Associate,25,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst (Risk Program),Asurion,Full-time,61,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Portfolio Data Analyst,HarbourVest Partners,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Master Data Analyst, APAC",Arthrex APAC,Full-time,117,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Risk and Compliance Innovation",Income,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,IT Data Analyst,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst,Salt Singapore,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Business Intelligence and Data Analyst - eZRx,Zuellig Pharma,Full-time,200,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Marketing Data Analyst (S/Manager),M1 Limited,Full-time,189,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Small Farmers",Yara International,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Lead Data Analyst,GXS,Full-time,41,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Operation Data Analyst Exec- Near Tai Seng MRT,Rentokil Initial,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst/ BI (Products) – Crypto/Fintech,ERROR,Associate,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Marketing - Groceries (APAC)",foodpanda,Full-time,83,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst (Banking|Up to $7.4k),Adecco,Contract,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst - OpenData - APAC,Veeva Systems,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Lead Data Analyst- Marketplace,ERROR,Associate,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Associate, Credit Data Analyst, Risk Management Group",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,Data Analyst ( Manufacturing/ Power BI/ Hadoop/ Python/ C++/ West Up $7000 ),PEOPLE PROFILERS,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst (Marketing Analytics),Shopee,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,JAC Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,Klook,Full-time,151,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Associate, Regional AI Chatbot Data Analyst",Lazada,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Livestream Business Data Analyst,ByteDance,Full-time,31,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst (Singapore Based),Pluang,Full-time,64,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Singapore,"Data Analyst, Education Executive Officer",Yayasan MENDAKI,Contract,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Engineer / Analyst,EM Services Pte Ltd,Full-time,98,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,IT Data Analyst,Cosmostar Singapore Private Limited,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Product Data Analyst (Junior to Lead level),Randstad Singapore,Full-time,55,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Social Sustainability Data Analyst-EN,Cargill,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst Manager (Fragrance & Beauty),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0
+Singapore,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst (Assistant Manager),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst - Marketing Analytics (CRM),Shopee,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Master Data Analyst,ERROR,Associate,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data & Analytics, Cards Business Analyst",Citi,Full-time,43,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst - Digital Bank Business Intelligence & Analytics,Shopee,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Capability Analyst - Hybrid,Citi,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst - Singapore,Moloco,Full-time,50,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Data Analyst, Channel & 3rd Party Connectivity",Yara International,Full-time,25,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+Singapore,Senior Data Analyst,GREAT EASTERN,Full-time,31,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Risk investment/ Macro/SQL/$5500),Forte Employment Services Pte Ltd,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,GREAT EASTERN,Full-time,62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst - Marketing Analytics,Shopee,Full-time,60,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Associate Data Analyst, Channel & 3rd Party Connectivity",Yara International,Full-time,34,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+Singapore,Senior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Assistant VP, Data Analyst, Wholesale Banking and Market Operations",UOB,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Language Data Analyst,TransPerfect,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,Terrascope,Full-time,40,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst (Qlikview) (Bank)(JT),A-IT Software Services Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Staff/ Senior Data Analyst,ShopBack,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Metocean Data Analyst,Fugro,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Executive (Data Analyst), Dean's Office",National University of Singapore,Full-time,41,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"IT Data Analyst (Contract, up to $6,000)",ERROR,Associate,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst Manager,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+Singapore,Senior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Singapore,"Supply Chain Data Analyst, APAC",Ingredion Incorporated,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Financial Services Advisory, Data Analyst, Associate",KPMG Singapore,Full-time,135,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Senior / Data Analyst,Speedoc,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst (Mobile Game Security/Python/SQL) - CL,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"AVP, Lead Data Analyst",OCBC Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Master Data Analyst Exec [UP TO $2.8K, TRAINING PROVIDED]",Adecco,Contract,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Data Analyst and IT Adinistration,Infogain Solutions Pte Ltd,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst Lead, Regional Supply Chain",Shopee,Full-time,47,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Language Data Analyst,TransPerfect,Full-time,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Supply Chain Data Analyst,Q² Solutions,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,PDE Data Analyst,Micron Technology,Full-time,27,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Singapore,Master Data Analyst (Based in Tuas),Abbott,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst Engineer,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Associate Data Analyst - Small Farmers,Yara International,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Risk Data Analyst (Ecommerce Fraud),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst - Compliance Transformation (Associate/ Senior Associate),"Bank of Singapore, Asia's Global Private Bank",Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Operations Data Science Analyst,AIA Singapore,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst - Chatbot,Shopee,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior / Lead Data Analyst (S/Executive),M1 Limited,Full-time,98,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Reporting Analyst/ Data Engineer,TikTok,Full-time,104,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Project Coordinator, Data Analyst (Healthcare industry)",ERROR,Entry level,25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,Connect Energy,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst - Identity Verification,Shopee,Full-time,56,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,FAZZ Financial Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst (B2C),Michael Page,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Data Management Analyst (Investment Firm, Town, Urgent)",Adecco,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst - Marketing Analytics (External Media),Shopee,Full-time,30,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Bloomberg Data, Exchanges Content Analyst, Singapore",Bloomberg LP,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Data Analyst, Safety & Integrity",Aaqua,Full-time,37,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,JLL,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst - NuData Integration,Mastercard,Full-time,117,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,"AVP, Data Analyst, Group Consumer Banking and Big Data Analytics Technology, Technology & Operations",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Business/Data Analyst - Sales Programs,Amazon Web Services (AWS),Full-time,32,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Senior / Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,"Data Analyst (Asst Manager), Dean's Office (Contract till 31 Mar 2024)",National University of Singapore,Full-time,28,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Regional Senior Data Analyst (Operations),Ninja Van,Full-time,87,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+Singapore,Data Quality Analyst (1 year contract),PwC Singapore,Contract,44,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,IT Data Analyst/ Engineer,Talentsis Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Risk Innovation (PJC)",ERROR,Entry level,25,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst - Data operations (Contractor),Eastspring Investments,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+Singapore,Customer Feedback Data Analyst (Microsoft Windows OS),ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst Lead,Binance,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Analyst Engineer,ERROR,Entry level,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Assistant Manager Performance Data Analyst – Client Reporting Unit,Citi,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Contract Staff, Regional Customer Experience Data Analyst, Consumer Banking Group",DBS Bank,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Auditor / Data Audit Specialist / Analyst,Randstad Singapore,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,Study Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Insights & Analytics - Senior Data Analyst,Capital Group,Full-time,67,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+Singapore,Senior Data Analyst | Coupang Play,Coupang,Full-time,42,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analyst Engineer - SM,ERROR,Entry level,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"AVP, Data Analyst, Group Consumer Banking and Big Data Analytics Technology, Technology & Operations",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,"Senior Data Analyst , Marketing Analytics",Marina Bay Sands,Full-time,78,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Support Analyst,RWE,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Initiatives Master Data Operations Analyst,Procter & Gamble,Full-time,43,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Data Analyst / IT / Central / Up to SGD 9,000/mth! #Urgent",ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst,JLL Technologies,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Regional Senior Data Analyst I (Commercial, Product)",Ninja Van,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,Peoplebank,Contract,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Vice President, Senior Data Analyst - Research & Innovation Lab (RIL), Asia Growing Markets Departme",Sumitomo Mitsui Banking Corporation (SMBC) Asia Pacific,Full-time,39,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Analyst #SGUnitedJobs,Transcendent Business Services Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Data Engineer/ IT Analyst (Big Data),Michael Page,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Network Analyst ( Healthcare ),ERROR,Entry level,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Assistant VP/Manager, Data Analyst for Private Bank, Group Finance",UOB,Full-time,32,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst (Bank) (JT),A-IT Software Services Pte Ltd,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Senior Product Data Analyst,Trustana,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Performance and Data Management Analyst,Nikko Asset Management Asia Limited,Full-time,25,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Master Data Analyst (SAP, 1-year contract) / Global MNC",ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"VP/AVP, Senior Data Analyst, Group Consumer Banking and Big Data Analytics Technology, Technology & Operations",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Senior Supply Chain Data Analyst/ Semiconductor/ Urgent,Adecco,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst (Risk Program),ERROR,Associate,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Business Data Analyst [ F&B | Accounting | Up to $6500 ] - 5685,The Supreme HR Advisory,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Regional Senior Data Analyst II (Commercial, Product)",Ninja Van,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst - Binance Research,Binance,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Digitalization & Data Analyst Lead (Singapore Hub ),Sanofi,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Maintenance Engineer (Data Analyst / Aviation / Python),Adecco,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Ethics and Compliance - Data Analyst (Singapore based),TikTok,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Data Migration Analyst,Zenith Infotech (S) Pte Ltd,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Senior Data Analyst (B2C),Page Personnel,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"VP, Data Analyst, Corporate Real Estate Services",UOB,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Research Associate (Data Analyst and Machine Learning Specialist),Nanyang Technological University Singapore,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Data Engineer / Senior Data Analyst (Azure Data),Randstad Singapore,Full-time,31,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Management Analyst,ERROR,Associate,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Associate/Senior Associate, Business Compliance Data Analyst, Institutional Banking Group COO-Office",DBS Bank,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Singapore,"AVP, Private Wealth Data Analyst, Consumer Banking Group",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Marketing Data, Automation & Operations Analyst",ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Singapore,"Financial Data Analyst, APAC Engineering and Operations Finance",Apple,Full-time,74,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Singapore,"Sr. Data Analyst, APJ Field Technical Operations",Amazon Web Services (AWS),Full-time,55,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Data Business Analyst / 1 Year, Non-Renewable / Tai Seng MRT",PEOPLE PROFILERS,Contract,25,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,"Senior Data Analyst, Capital Markets Quants APAC",JLL,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Regional Data Analyst (Business Operations),Glints,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Manager, Data Analyst",SATS Ltd.,Full-time,51,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Master Data Analyst II (COE) - 12 months contract,Bio-Rad Laboratories,Contract,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Sr Data Analyst, Third Party Governance",PayPal,Full-time,42,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,Sr. Data Reporting Analyst – Merchant Services,Payoneer,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Singapore,Senior Product Data Analyst,Carousell Group,Full-time,33,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"AVP, Campaign & Data Analyst, Group Retail",UOB,Full-time,29,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Data Analyst (Bangkok Based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,Senior Data Analyst - Trade Compliance/Customs-EN,Cargill,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Singapore,Data Migration Analyst - Talend,EY,Full-time,50,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Carbon Data Analyst,ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"Data Warehouse Test Analyst (Junior), Application & Infrastructure Services",OCBC Bank,Full-time,43,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Senior Security Data Analyst,Grab,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Associate, Business/Data Analyst, Ops COO – Operational Risk Management, Technology and Operations",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"Contract Associate / Senior Associate, Data Sourcing Support Business Analyst",Temasek,Full-time,25,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,Business Intelligence & Analytics Lead,Asurion,Full-time,200,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Singapore,Data Analytics - Tech Lead Analyst,Citi,Contract,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,"First VP / VP, Data Analyst, Wholesale Banking and Market Operations",UOB,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Information Security, Data Analyst VP",BNY Mellon,Full-time,25,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Singapore,"Senior Executive, HRIS & Data Analyst",Kuok Singapore Limited Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Data Analytics Senior Analyst (Internal Audit) - Assistant Vice President,Citi,Full-time,40,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+Singapore,"VP, Private Wealth Data Analyst, Consumer Banking Group",DBS Bank,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Database analysts and administrators for Canada / USA,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Singapore,Operations Data/Brokerage Management Analyst (6-month contract),ERROR,Associate,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Singapore,Marketing Data Analyst and Business Intelligence Manager,INSEAD,Full-time,193,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Asian Technology Solutions,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,71,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst Associate,Tokopedia,Full-time,37,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Tunaiku,Full-time,114,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst on Primary Healthcare,Ministry of Health of the Republic of Indonesia,Full-time,40,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Grab,Full-time,50,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Business & Data Analyst intern,ERROR,Internship,57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Junior Data Analyst,Funding Societies | Modalku Group,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst/ Data Scientist,ABeam Consulting Indonesia,Full-time,53,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Digital Data Analyst,Aplikasi Super (YC W18),Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst E-Commerce,KOMPAS GRAMEDIA,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Entry level,75,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst (Remote),HappyFresh,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,LUXEHOUZE,Full-time,103,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,GrosirOne,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,SIRCLO,Full-time,109,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,107,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Kargo Technologies,Full-time,156,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,54,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst - Hiring Urgently,Great Giant Foods,Full-time,67,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Bibit.id,Full-time,200,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Junior Data Analyst,PT Pembiayaan Digital Indonesia (AdaKami),Full-time,200,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Indonesia,Data Analyst,Alodokter,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ATI Business Group,Full-time,49,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,KOMPAS GRAMEDIA,Full-time,110,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Privy,Full-time,182,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,detikcom,Full-time,175,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Divistant,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Associate Data Analyst,Pintu,Full-time,162,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Entry level,27,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Kopi Kenangan,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Paper.id,Full-time,162,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Associate Data Analyst,ERROR,Associate,39,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst Intern,Qoala,Part-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+Indonesia,Data Analyst,Moladin,Full-time,41,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Tada,Full-time,64,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Entry level,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,KoinWorks,Full-time,80,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst/WO,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst-User Trust,BukuWarung,Full-time,82,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Indonesia,Marketing Data Analyst,DKATALIS,Full-time,50,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst KG Media,KOMPAS GRAMEDIA,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Operations Data Analyst (Manual Activity),Ninja Van,Full-time,55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Aruna,Full-time,107,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Marketing Data Analyst,ERROR,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ASTRO,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst (Contract),Grab,Full-time,197,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,FAZZ Financial Group,Full-time,52,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,HR Data Analyst,Gojek,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+Indonesia,Data Analyst (for Getplus),PT Merah Cipta Media,Full-time,59,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst - Consumer Platform,Gojek,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst (ID),Spenmo,Full-time,25,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Indonesia,Senior Data Analyst,Tokopedia,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Great Giant Foods,Full-time,86,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,PT Berlian Sistem Informasi,Full-time,74,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,PERSOLKELLY Indonesia,Contract,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst / Data Scientist,ERROR,Entry level,61,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Principal Data Analyst,Tentang Anak,Full-time,200,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,"Assistant Manager, Data Analyst Transport",Grab,Full-time,147,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Pepper Financial Services Group,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Reporting& Data Analyst,ERROR,Entry level,44,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,"Data Analyst, Modal Rakyat",FAZZ Financial Group,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Product Data Analyst,Bibit.id,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Migo,Other,95,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,Tokopedia,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,"Data Analyst, Fraud",Xendit,Full-time,200,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Data Science Analyst,NielsenIQ,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,GTech Digital Asia,Full-time,44,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Quality Analyst,Astra Financial,Full-time,101,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst - Driver Platform,Gojek,Full-time,200,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,ERROR,Entry level,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Growth Data Analyst - CRM,The Body Shop Indonesia,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Indonesia,Data Analyst,Boleh Dicoba Digital,Full-time,91,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,"SUPARMA, PT TBK",Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst & Reporting,SIRCLO,Full-time,88,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst - XenShield,Xendit,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,Hakuhodo Digital Indonesia,Full-time,34,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Appinzpire,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst,Warung Pintar,Full-time,50,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,PAC Performance Data Analyst,Gojek,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,AgriAku,Full-time,150,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst (Amaan Project),DKATALIS,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst - FinTech,WeNetwork,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst & Reporting Executive,AdAsia Holdings,Full-time,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Science Mathematics Analyst,PT Asta Protek Jiarsi,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,Pegipegi,Full-time,35,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Project Management Data Analyst,tiket.com,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Collection Data Analyst,Atome,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst Manager,JULO,Full-time,126,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Sales Data Analyst,PT. Personel Alih Daya (Persada),Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,Moladin,Full-time,140,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Sales Data Analyst,Lamudi.co.id | Teman Tepercaya Cari Properti,Full-time,200,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst (Growth),Funding Societies | Modalku Group,Full-time,71,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,SehatQ,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst - Urgent,AgriAku,Full-time,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,JULO,Full-time,103,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Operations Data Analyst (Design & Automation),Ninja Van,Full-time,25,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Indonesia,Data Analyst Lead,Tokopedia,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Merchant Experience Data Analyst - Commerce Enablement,Gojek,Contract,114,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst Supervisor,OLX Group,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst,Summit Institute of Development,Full-time,40,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst (Logistics Tech),byOrange,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Lead Data Analyst,Blue Bird Group,Full-time,200,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Associate Data Analyst- Customer Experience Group | Bangkok-based,Agoda,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,"Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst Manager,dentsu international,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst - Central Java,Jiva,Full-time,29,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Data Analyst Consultant,Nomura Research Institute Indonesia,Full-time,200,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Sr. Data Analyst,ERROR,Associate,25,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Fresh Graduate Business Data Technical Analyst,ERROR,Entry level,154,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+Indonesia,Business Intelligence,Shopee,Full-time,131,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,Manuva,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Sales Data Analyst - Urgent Position,PT. Personel Alih Daya (Persada),Full-time,30,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Supply Chain Master Data Analyst,Valeo,Full-time,195,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Reporting & Data Analyst (Operations Digital Banking),byOrange,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst,Virgo,Full-time,25,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,ERROR,Associate,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst for Ops,FinAccel,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Indonesia,Merchant Experience Data Analyst - Commerce Enablement,GoTo Financial,Full-time,81,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,"Manager, Financial Planning Data Analyst",Grab,Full-time,30,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst - Calling System and Leads Services,Lifepal,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Business Intelligence,byOrange,Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,QBU Data Analyst and Business Quality Assessor,Prudential Indonesia (PT Prudential Life Assurance),Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data - Business Intelligence,Shopee,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Indonesia,Senior Data Analyst - Commerce Enablement,Gojek,Full-time,200,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Credit Risk & Collection Data Analyst (Bangkok-based),Agoda,Full-time,135,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst / Business Intelligence (mid to senior),Michael Page,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,"Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Analyst m|f/d,proALPHA,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Senior Data Analyst - Cartography,Gojek,Full-time,100,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Data Analyst,DGN Media Italia Srl,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Associate Talent Acquisition Data Analyst,SIRCLO,Full-time,25,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Operational Manager Data Analyst - Digital Marketing,Transcosmos Indonesia (Official),Full-time,111,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Specialist,PT Bank Sinarmas Tbk,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Specialist,PT Lion Super Indo,Full-time,200,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,"Senior Data Analyst (Bangkok Based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Senior Regional Data Analyst (Business Operations),Glints,Full-time,25,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Data Tracking Analyst Lead,ERROR,Associate,25,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence,ERROR,Entry level,61,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Specialist,Wunderman Thompson,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Engineer,Xiaomi Technology,Full-time,200,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Specialist,Kredit Pintar,Full-time,200,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence,Kargo Technologies,Full-time,67,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Business Intelligence,GOTOKO,Full-time,167,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,"Finance Business Intelligence, Junior/Associate",Sea,Full-time,40,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,"Senior Data Analyst, Partner Development – (Statistics/ML/BI) (Bangkok-based, relocation provided)",Agoda,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Engineer,Shopee,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence,JALA Tech,Full-time,58,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence - Research & Insight,Shopee,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,"Business Intelligence, Strategy & Analytics Lead",Xiaomi Technology,Full-time,200,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,"Manager, Financial Planning Data Analyst",ACCA Careers,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Senior Procurement Analyst - Data Analyst (Surabaya Placement),Jiva,Full-time,25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Developer,Tata Consultancy Services,Full-time,48,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Business Intelligence - Research Operations,Shopee,Full-time,189,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Developer,PT 360 Teknologi Indonesia,Full-time,26,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Developer,MSBU - Tech Recruitment Agency,Full-time,34,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data Analyst Intern,dentsu international,Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Data Analyst Intern,ERROR,Internship,124,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Data - Business Intelligence Engineer,Shopee,Full-time,200,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Analytics Consultant (Data Engineer / Data scientist / Business Intelligence) - Hiring Fast,iZeno,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Developer,ABeam Consulting Indonesia | Data Management and Analytics Sector,Full-time,48,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+Indonesia,Business Intelligence Developer E-Commerce,KOMPAS GRAMEDIA,Full-time,52,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+Indonesia,Analytics Consultant (Data Engineer / Data scientist / Business Intelligence),iZeno,Full-time,25,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,IT Business Intelligence Analyst,PT. Evotech Distribusi,Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,(Remote) Business Intelligence Analyst,Kitabisa,Full-time,200,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence & Analyst,SeaBank Indonesia,Full-time,42,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Developer,"Indocyber Global Teknologi, PT",Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Analytics Consultant / Data Engineer / Business Intelligence,iZeno,Full-time,25,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,IT Technical Business Analyst,"PT Bank Danamon Indonesia, Tbk.",Full-time,200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Developer,PT. Astra Graphia Information Technology (AGIT),Part-time,25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,"HRD, GA, Games Programer, Multi Media Designer, Visual Designer 3D/Adobe Family, Software Enginer algorithm / data scientist / analyst",ERROR,Full-time,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Business Intelligence,Kargo Technologies,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,Jr. Business Intelligence Analyst,Binar Academy,Full-time,45,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Indonesia,Senior Lead Analytics (Business Intelligence),Tokopedia,Full-time,25,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Analyst Intern,Flash Coffee,Internship,188,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,(Tech Services) Business Analyst,MatchaTalent,Full-time,25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Indonesia,Business Intelligence Analyst,Flash Coffee,Full-time,28,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Indonesia,Business Intelligence Developer,"Indocyber Global Teknologi, PT",Full-time,25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+Indonesia,Business System Analyst,ABeam Consulting Indonesia | Data Management and Analytics Sector,Full-time,135,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
